@@ -1,3 +1,29 @@
+## Some of the techniques used on this project:
+- React Basics
+
+- React Router
+
+- Redux
+
+- Asynchronous Redux
+
+- React Hooks
+
+- Firebase
+
+- Stripe API
+
+- Styled-Components
+
+- React Performance
+
+- React Design Patterns
+
+- React Best Practices
+
+- Persistence + Session Storage
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
